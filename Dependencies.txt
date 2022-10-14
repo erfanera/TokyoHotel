@@ -1,0 +1,3 @@
+  Pufferfish                     by Michael Pryor (2.9.0.0)
+  MetaHopper                     by Andrew Heumann (1.2.4)
+  Human                          by 'unknown author' (1.2.0)
